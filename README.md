@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anna-fontani
 - 👀 I’m interested in data analytics, business analytics, data modelling, visualization tools
-- 🌱 I’m currently learning data analytics from Google, SQL courses
+- 🌱 I’m currently finishing my MSc in Data Analytics in CCT College Dublin
 - 💞️ I’m looking to collaborate on data analytics progression
 - 📫 How to reach me: anna.fontani@gmail.com
 
