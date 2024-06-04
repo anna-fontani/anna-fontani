@@ -1,9 +1,9 @@
 - 👋 Hi, my name is Anna
 - 👀 I am interested in data analytics, business analytics, data modelling, visualization tools
-- 🌱 I have a vast experience in business and web analytics in different fields
+- 🌱 I have a vast experience in business and web analytics in different fields (IT and educational sector)
 - 👀 NLP (Natural Language Processing) is a focus of my current ML experiments
 - 🛠️ I work in Python, SQL, Sheets, and Tableau
-- 🌱 MSc in Computer Science and currently finishing my MSc in Data Analytics in CCT College Dublin
+- 🌱 Graduated as MSc in Computer Science and currently finishing my MSc in Data Analytics in CCT College Dublin
 - 📫 How to reach me: anna.fontani@gmail.com
 - 📫 My LinkedIn page: https://www.linkedin.com/in/anna-fontani-tankovska/
 
